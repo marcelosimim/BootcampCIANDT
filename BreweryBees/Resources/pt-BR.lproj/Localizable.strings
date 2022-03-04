@@ -1,0 +1,23 @@
+// MARK: - xib Brewery Error
+"findBreweryError.title.noBreweryTyped" = "Nenhum termo digitado";
+"findBreweryError.title.notFoundBrewery" = "Nenhum resultado encontrado para a busca";
+"findBreweryError.description" = "Por favor, verifique sua pesquisa e tente novamente para obter resultados.";
+
+// MARK: - Home Welcome text
+"TitleWelcome" = "Bem-vindo(a)!\nEncontre as melhores cervejarias";
+"SerchMyBrewery" = "Buscar cervejaria por cidade";
+"FindMyLocation" = "Utilizar meu local";
+"favorite.navigationBar.title" = "Cervejarias favoritas";
+
+// MARK: - favorite screen
+"favorite.title.navigationBar" = "Cervejarias favoritas";
+"favorite.title.noFavoriteAdded" = "Nenhuma cervejaria favorita";
+"favorite.description.noFavoriteAdded" = "Você ainda não possui nenhuma cervejaria marcada como favorita. Suas cervejarias favoritas aparecerão aqui.";
+"favorite.title.added" = "Suas cervejarias favoritas";
+"favorite.breweryResultOne" = "resultado";
+"favorite.breweryResultMore" = "resultados";
+"favorite.orderBy" = "Ordenar por:";
+"favorite.removePopUp.title" = "Remover favorito?";
+"favorite.removePopUp.description" = "Ao remover a cervejaria dos favoritos, ela deixa de aparecer na listagem de cervejarias favoritas. Você pode adicionar a cervejaria como favorita novamente quando quiser.";
+"favorite.removePopUp.cancelButton" = "CANCELAR";
+"favorite.removePopUp.confirmButton" = "REMOVER FAVORITO";

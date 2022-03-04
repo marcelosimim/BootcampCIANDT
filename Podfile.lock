@@ -1,0 +1,44 @@
+PODS:
+  - Cosmos (23.0.0)
+  - lottie-ios (3.3.0)
+  - Realm (10.22.0):
+    - Realm/Headers (= 10.22.0)
+  - Realm/Headers (10.22.0)
+  - RealmSwift (10.22.0):
+    - Realm (= 10.22.0)
+  - SDWebImage (5.12.3):
+    - SDWebImage/Core (= 5.12.3)
+  - SDWebImage/Core (5.12.3)
+  - Swinject (2.8.1)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - Cosmos
+  - lottie-ios
+  - RealmSwift
+  - SDWebImage
+  - Swinject
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - lottie-ios
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - Swinject
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  Realm: d9e4e5877095a6722145811f56fe89a531c9659d
+  RealmSwift: e4191b4b957fcfcbed23751ec65eec98f8173ab5
+  SDWebImage: 53179a2dba77246efa8a9b85f5c5b21f8f43e38f
+  Swinject: 97112918bd7e0785dc2df7036213f3c8cbba6586
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: e69e1042f93a5e55ea1f921ad02fc5b0687c376f
+
+COCOAPODS: 1.11.2

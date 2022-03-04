@@ -1,0 +1,23 @@
+// MARK: - xib Brewery Error
+"findBreweryError.title.noBreweryTyped" = "No terms typed";
+"findBreweryError.title.notFoundBrewery" = "No results found for your search.";
+"findBreweryError.description" = "Please check your search and try again for results.";
+
+// MARK: - Home Welcome text
+"TitleWelcome" = "Welcome!\nFind the best breweries";
+"SerchMyBrewery" = "Find Brewery by city";
+"FindMyLocation" = "Use my Location";
+"favorite.navigationBar.title" = "Favorite breweries";
+
+// MARK: - favorite screen
+"favorite.title.navigationBar" = "Favorite breweries";
+"favorite.title.noFavoriteAdded" = "No favorite brewery";
+"favorite.description.noFavoriteAdded" = "You don't have a favorite brewery yet. Your favorite breweries will appear here.";
+"favorite.title.added" = "Your favorite breweries";
+"favorite.breweryResultOne" = "result";
+"favorite.breweryResultMore" = "results";
+"favorite.orderBy" = "Order by:";
+"favorite.removePopUp.title" = "Remove favorite?";
+"favorite.removePopUp.description" = "When you remove the brewery from favorites, it no longer appears in the list of favorite breweries. You can add the brewery as a favorite again whenever you want.";
+"favorite.removePopUp.cancelButton" = "CANCEL";
+"favorite.removePopUp.confirmButton" = "REMOVE FAVORITE";
